@@ -1,0 +1,69 @@
+<table cellpadding="0" cellspacing="0" border="0" role="presentation" width="100%"
+       style="background-color:#ffffff;color:#1f1f1f;font-family:Segoe UI, Arial, sans-serif;">
+ <tr>
+    <td height="16" style="font-size:0; line-height:0; mso-line-height-rule:exactly;">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:16px 18px;">
+      
+      <!-- GŁÓWNY BLOK -->
+      <table cellpadding="0" cellspacing="0" border="0" role="presentation">
+        <tr>
+          
+          <!-- ZDJĘCIE -->
+          <td valign="top" style="padding-right:16px;">
+            <img src="https://cdn.prod.website-files.com/6175c5d687db5e3eaaa1ca41/69c2cea6b4391a0a02d4a9f7_KW.png"
+                 width="90"
+                 height="90"
+                 style="display:block;border-radius:8px;"
+                 alt="">
+          </td>
+
+          <!-- LINIA PIONOWA -->
+          <td width="6" style="background-color:#0a5ea8;"></td>
+
+          <!-- DANE -->
+          <td valign="top" style="padding-left:16px;line-height:1.4;color:#1f1f1f;">
+            
+            <div style="font-size:18px;font-weight:600;color:#1f1f1f;">
+              %%DisplayName%%
+            </div>
+
+            <div style="font-size:14px;color:#5f5f5f;">
+              %%Title%%
+            </div>
+
+            <div style="margin-top:10px;font-size:13px;color:#1f1f1f;">
+              e-mail:
+              <a href="mailto:%%WindowsEmailAddress%%"
+                 style="color:#0a5ea8;text-decoration:none;">
+                %%WindowsEmailAddress%%
+              </a>
+              &nbsp;|&nbsp;
+              kom: %%MobilePhone%%
+            </div>
+
+            <div style="margin-top:6px;font-size:13px;color:#1f1f1f;">
+              %%Company%%<br>
+              %%StreetAddress%%<br>
+              %%PostalCode%% %%City%%
+            </div>
+
+            <div style="margin-top:6px;font-size:13px;color:#0a5ea8;">
+              %%Phone%%
+            </div>
+
+          </td>
+        </tr>
+      </table>
+
+      <!-- DISCLAIMER -->
+      <table cellpadding="0" cellspacing="0" border="0" role="presentation" width="100%">
+        <tr>
+          <td style="padding-top:16px;font-size:11px;line-height:1.35;color:#4f4e4e;">
+            <strong>KLAUZULA POUFNOŚCI</strong><br>
+            Ta wiadomość oraz jakiekolwiek pliki przesłane wraz z nią są poufne i przeznaczone wyłącznie do użytku osób i jednostek, do których została adresowana.<br>
+            W przypadku pomyłkowego otrzymania niniejszej wiadomości prosimy o jej usunięcie z komputera oraz o niezwłoczne powiadomienie naszej Kancelarii.<br>
+            Ujawnianie treści tej wiadomości, jej kopiowanie, przesyłanie lub podejmowanie jakichkolwiek innych działań jest surowo wzbronione.<br>
